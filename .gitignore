@@ -29,3 +29,4 @@ yarn-error.log*
 # Ignore sensitive or personal information
 config.js
 secrets.json
+.vercel
