@@ -10,7 +10,6 @@ Thumbs.db
 
 # Ignore dependencies and build output
 node_modules/
-dist/
 build/
 
 # Ignore logs and other generated files
